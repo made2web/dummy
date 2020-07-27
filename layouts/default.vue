@@ -6,7 +6,7 @@
       <nuxt-link to="/static">Static</nuxt-link>
       <nuxt-link to="/content">Content</nuxt-link>
       <nuxt-link to="/lazy">Lazy</nuxt-link>
-      <nuxt-link to="/static-render">Static Render Component</nuxt-link>
+      <a href="/static-render">Static Render Component</a>
     </div>
     <Nuxt />
   </div>

@@ -16,6 +16,12 @@ export default Vue.extend({
   updated() {
     console.log("Time for render:");
     console.timeEnd();
+  },
+  mounted() {
+    // If we didn't already do it on the server
+    // we fetch the item
+    if (!this.message) {
+    }
   }
 });
 </script>
