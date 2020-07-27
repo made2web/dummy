@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div>
     <p>Existem inúmeras opções terapêuticas para o cancro da próstata que apresentam bons resultados.</p>
     <p>A maioria dos homens diagnosticados com um tumor neste órgão pode esperar viver muitos anos. Embora o sucesso do tratamento dependa, naturalmente, da progressão da doença oncológica.</p>
     <p>Se for detectado em fases precoces, localizado ainda apenas na próstata, o tratamento tem fins curativos. A braquiterapia, a cirurgia e a radioterapia externa são as opções terapêuticas possíveis, dado o tumor estar ainda numa fase precoce.</p>
