@@ -1,23 +1,26 @@
 [
   {
+    "name": "content",
+    "path": "/content",
+    "component": "C:\\\\Users\\\\narso\\\\projects\\\\dummy\\\\pages\\\\content.vue",
+    "chunkName": "pages/content"
+  },
+  {
     "name": "functional",
     "path": "/functional",
     "component": "C:\\\\Users\\\\narso\\\\projects\\\\dummy\\\\pages\\\\functional.vue",
-    "chunkName": "pages/functional",
-    "_name": "_6471c411"
+    "chunkName": "pages/functional"
   },
   {
     "name": "static",
     "path": "/static",
     "component": "C:\\\\Users\\\\narso\\\\projects\\\\dummy\\\\pages\\\\static.vue",
-    "chunkName": "pages/static",
-    "_name": "_bdbb3408"
+    "chunkName": "pages/static"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\narso\\\\projects\\\\dummy\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_fabc0098"
+    "chunkName": "pages/index"
   }
 ]

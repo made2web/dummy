@@ -4,6 +4,7 @@
       <nuxt-link to="/">No Functional</nuxt-link>
       <nuxt-link to="/functional">Functional</nuxt-link>
       <nuxt-link to="/static">Static</nuxt-link>
+      <nuxt-link to="/content">Content</nuxt-link>
     </div>
     <Nuxt />
   </div>

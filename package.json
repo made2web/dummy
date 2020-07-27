@@ -10,6 +10,7 @@
     "serve": "nuxt-ts serve"
   },
   "dependencies": {
+    "@nuxt/content": "^1.4.1",
     "@nuxt/typescript-runtime": "^0.4.10",
     "nuxt": "^2.13.0"
   },
