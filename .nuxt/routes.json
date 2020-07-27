@@ -7,6 +7,13 @@
     "_name": "_6471c411"
   },
   {
+    "name": "static",
+    "path": "/static",
+    "component": "C:\\\\Users\\\\narso\\\\projects\\\\dummy\\\\pages\\\\static.vue",
+    "chunkName": "pages/static",
+    "_name": "_bdbb3408"
+  },
+  {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\narso\\\\projects\\\\dummy\\\\pages\\\\index.vue",

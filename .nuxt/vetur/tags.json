@@ -16,5 +16,11 @@
   },
   "LazyLogo": {
     "description": "Auto imported from components/Logo.vue"
+  },
+  "Static": {
+    "description": "Auto imported from components/static.vue"
+  },
+  "LazyStatic": {
+    "description": "Auto imported from components/static.vue"
   }
 }
