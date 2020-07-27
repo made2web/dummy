@@ -5,6 +5,8 @@
       <nuxt-link to="/functional">Functional</nuxt-link>
       <nuxt-link to="/static">Static</nuxt-link>
       <nuxt-link to="/content">Content</nuxt-link>
+      <nuxt-link to="/lazy">Lazy</nuxt-link>
+      <nuxt-link to="/static-render">Static Render Component</nuxt-link>
     </div>
     <Nuxt />
   </div>

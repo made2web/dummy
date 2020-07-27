@@ -13,6 +13,7 @@
     "@nuxt/content": "^1.4.1",
     "@nuxt/typescript-runtime": "^0.4.10",
     "nuxt": "^2.13.0",
+    "nuxt-static-render": "0.0.4",
     "vue-lazy-hydration": "^1.0.0-beta.14"
   },
   "devDependencies": {

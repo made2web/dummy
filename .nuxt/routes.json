@@ -12,10 +12,22 @@
     "chunkName": "pages/functional"
   },
   {
+    "name": "lazy",
+    "path": "/lazy",
+    "component": "C:\\\\Users\\\\narso\\\\projects\\\\dummy\\\\pages\\\\lazy.vue",
+    "chunkName": "pages/lazy"
+  },
+  {
     "name": "static",
     "path": "/static",
     "component": "C:\\\\Users\\\\narso\\\\projects\\\\dummy\\\\pages\\\\static.vue",
     "chunkName": "pages/static"
+  },
+  {
+    "name": "static-render",
+    "path": "/static-render",
+    "component": "C:\\\\Users\\\\narso\\\\projects\\\\dummy\\\\pages\\\\static-render.vue",
+    "chunkName": "pages/static-render"
   },
   {
     "name": "index",
