@@ -1,0 +1,16 @@
+[
+  {
+    "name": "functional",
+    "path": "/functional",
+    "component": "C:\\\\Users\\\\narso\\\\projects\\\\dummy\\\\pages\\\\functional.vue",
+    "chunkName": "pages/functional",
+    "_name": "_6471c411"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\narso\\\\projects\\\\dummy\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_fabc0098"
+  }
+]

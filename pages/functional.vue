@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <dummy :message="message" />
+    <dummyfunctional :message="message" />
   </div>
 </template>
 

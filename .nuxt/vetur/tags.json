@@ -1,0 +1,20 @@
+{
+  "Dummy": {
+    "description": "Auto imported from components/dummy.vue"
+  },
+  "LazyDummy": {
+    "description": "Auto imported from components/dummy.vue"
+  },
+  "Dummyfunctional": {
+    "description": "Auto imported from components/dummyfunctional.vue"
+  },
+  "LazyDummyfunctional": {
+    "description": "Auto imported from components/dummyfunctional.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "LazyLogo": {
+    "description": "Auto imported from components/Logo.vue"
+  }
+}
