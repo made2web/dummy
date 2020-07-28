@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div>
     <dummy :message="message" />
   </div>
 </template>

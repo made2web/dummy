@@ -6,6 +6,7 @@ import scrollBehavior from './router.scrollBehavior.js'
 const _39cfb55b = () => interopDefault(import('..\\pages\\content.vue' /* webpackChunkName: "pages/content" */))
 const _6471c411 = () => interopDefault(import('..\\pages\\functional.vue' /* webpackChunkName: "pages/functional" */))
 const _060084fc = () => interopDefault(import('..\\pages\\lazy.vue' /* webpackChunkName: "pages/lazy" */))
+const _285274ac = () => interopDefault(import('..\\pages\\plain.vue' /* webpackChunkName: "pages/plain" */))
 const _bdbb3408 = () => interopDefault(import('..\\pages\\static.vue' /* webpackChunkName: "pages/static" */))
 const _b38dcd92 = () => interopDefault(import('..\\pages\\static-render.vue' /* webpackChunkName: "pages/static-render" */))
 const _fabc0098 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
@@ -38,6 +39,10 @@ export const routerOptions = {
     path: "/lazy",
     component: _060084fc,
     name: "lazy"
+  }, {
+    path: "/plain",
+    component: _285274ac,
+    name: "plain"
   }, {
     path: "/static",
     component: _bdbb3408,
