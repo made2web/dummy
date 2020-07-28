@@ -48,10 +48,6 @@ export default {
    ** Nuxt.js modules
    */
   modules: ["@nuxt/content", "nuxt-static-render"],
-
-  render: {
-    injectScripts: false
-  },
   /*
    ** Build configuration
    ** See https://nuxtjs.org/api/configuration-build/
